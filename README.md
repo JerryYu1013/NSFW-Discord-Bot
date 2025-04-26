@@ -47,18 +47,18 @@ pip install -r requirements.txt
 ```
 
 ### 配置機器人 Token
-打開 `bot_github.py` 文件，將 `TOKEN` 替換為您的 Discord Bot Token。
+打開 `main.py` 文件，將 `TOKEN` 替換為您的 Discord Bot Token。
 
 ### 啟動機器人
 使用以下命令啟動 Bot：
 ```bash
-python bot_github.py
+python main.py
 ```
 
 ---
 
 ## 注意事項
-- 本 Bot 僅供 18 歲以上成人教學使用，請勿用於非法用途。
+- 此 Bot 僅供 18 歲以上成人教學使用，請勿用於非法用途。
 - 圖片資源由 Waifu.im 提供，版權歸原作者所有。
 
 ---
